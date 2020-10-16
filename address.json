@@ -1,0 +1,44 @@
+[
+  {
+    "name":"Jyotiranjan Behera",
+    "phone": 9066355375,
+    "title": "HOME",
+    "image": "assets/img/address_home.png",
+    "address": "2188 12th cross 1st main, Sanjivini Nagar, Sahakara Nagar, Bengaluru, Karnataka - 560092"
+  },
+  {
+    "name":"Subhendu Behera",
+    "phone": 7377725321,
+    "title": "WORK",
+    "image": "assets/img/address_work.png",
+    "address": "Singidi panichhatra, Singidi, Khaira Subdistrict, Baleshwar District, Odisha - 756059"
+  },
+  {
+    "name":"Jyotiranjan Behera",
+    "phone": 9337130810,
+    "title": "WORK",
+    "image": "assets/img/address_work.png",
+    "address": "Bimala nibasa, itua, Chakarapadhi, Itua, Agarpada Subdistrict, Bhadrak District, Odisha - 756115"
+  },
+  {
+    "name":"Kailash Jena",
+    "phone": 7894540787,
+    "title": "HOME",
+    "image": "assets/img/address_home.png",
+    "address": "KD telepoint,jagannathpur, Nhadrak, Bhadrak, Odisha - 756100"
+  },
+  {
+    "name":"Suresh Kumar Behera",
+    "phone": 9853977118,
+    "title": "HOME",
+    "image": "assets/img/address_home.png",
+    "address": "Krupalu Rice Industries Pvt Ltd, Panikoili, Panikoili Subdistrict, Jajapur District, Odisha"
+  },
+  {
+    "name":"Kailash Panda",
+    "phone": 8018568446,
+    "title": "HOME",
+    "image": "assets/img/address_home.png",
+    "address": "Toshali suziki showroom, Bonth chaak bhadrak, Bhadrak, Odisha - 756101"
+  }
+]
